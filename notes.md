@@ -1,4 +1,4 @@
-# ITec 11 notes
+# ITec 11 notes: Git
 Git is a program on my computer.
 GitHub is a website that keeps a copy.
 Commands so far: init, status, add, commit, log.
